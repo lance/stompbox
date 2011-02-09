@@ -1,3 +1,5 @@
+# DO NOT USE: Development continued at https://github.com/torquebox/stompbox
+
 # StompBox : A Deployer for TorqueBox
 
 StompBox is a simple Sinatra app that can be used to manage deployments on [TorqueBox][torquebox] by accepting commit notifications from [GitHub][github]. It provides a user interface for managing one-click deployment and undeployment of your github repositories to TorqueBox for specific branches and commit points.
